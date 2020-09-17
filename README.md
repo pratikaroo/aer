@@ -1,7 +1,11 @@
 # aer
 Test Assignment
 
+Code file stored in aer.zip file.
+
 Database connections details can be added in conn.php file.
+
+Database file name: assignment.sql
 
 
 Fetch All Employee Record:
